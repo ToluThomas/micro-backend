@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Eric",
+    "tickets": [
+      {
+        "price": 27.50,
+        "category": "A"
+      },
+      {
+        "price": 27.50,
+        "category": "A"
+      },
+      {
+        "price": 12.50,
+        "category": "A"
+      }
+    ]
+  },
+  {
+    "name": "Susan",
+    "tickets": [
+      {
+        "price": 27.50,
+        "category": "A"
+      }
+    ]
+  },
+  {
+    "name": "Ann",
+    "tickets": [
+      {
+        "price": 45.00,
+        "category": "B"
+      },
+      {
+        "price": 45.00,
+        "category": "B"
+      }
+    ]
+  },
+  {
+    "name": "Robert",
+    "tickets": [
+      {
+        "price": 45.00,
+        "category": "B"
+      },
+      {
+        "price": 27.50,
+        "category": "A"
+      }
+    ]
+  }
+]
